@@ -1,0 +1,24 @@
+.Services{
+    text-align: center;
+
+}
+ h1{
+text-align: center;
+}
+h2{
+    color: black;
+}
+
+p{
+color: gray;
+
+}
+.Service{
+display: inline-block;
+width:24.79%;
+height:fit-content;
+}
+i{
+    color:orangered;
+}
+
